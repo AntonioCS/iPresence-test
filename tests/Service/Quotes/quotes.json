@@ -1,0 +1,13 @@
+{
+  "quotes":
+  [
+    {
+      "quote": "Test 1",
+      "author": "t1"
+    },
+    {
+      "quote": "Test 2",
+      "author": "t2"
+    }
+  ]
+}
