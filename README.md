@@ -14,5 +14,3 @@ http://localhost:8080/api/shout/steve-jobs?limit=9
 Run `make` to get a list of all available commands
 
 
-
-António Carlos Simões - https://github.com/antoniocs
